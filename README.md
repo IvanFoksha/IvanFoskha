@@ -2,7 +2,7 @@
 
 **Middle Python-разработчик**  
 Черногория  
-+7 (917) 5269985 | [v.foksh6@gmail.com](mailto:v.foksh6@gmail.com) | [GitHub](https://github.com/username)  
++7 (917) 5269985 | [v.foksh6@gmail.com](mailto:v.foksh6@gmail.com) | [GitHub](https://github.com/IvanFoksha)  
 Готов к удаленной работе
 ---
 
