@@ -3,6 +3,7 @@
 **Python-разработчик / Backend-разработчик**  
 Черногория  
 +7-917-526-99-85 | [v.foksh6@gmail.com](mailto:v.foksh6@gmail.com) | [GitHub](https://github.com/IvanFoksha)  | [LinkedIn](https://www.linkedin.com/in/ivanfoksha/)
+
 Готов к удаленной работе; Готов к переезду (Грузия, Сербия)
 
 ---
@@ -34,6 +35,7 @@ Python-разработчик (Python, Django, PostgreSQL). Реализовал
 **[STTORE](https://sttore.link/)**, Черногория, Октябрь 2024 - По настоящее время
 
 _Платформа для видео и реферальной системы (ERC-20, Arbitrum):_
+
 **Стек:**
 Python (asyncio, aiogram), pytest, web3.py; SQLAlchemy; Django (REST API Framework); Postman; Git; Docker
 
