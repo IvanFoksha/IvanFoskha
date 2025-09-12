@@ -16,8 +16,6 @@ Python-разработчик (Python, Django, PostgreSQL). Реализовал
 
 ## Tech Stack
 
-## Tech Stack
-
 | Backend                                                                 | Database                                                               | Frontend                                                              | Tools & DevOps                                                              | API & Testing                                                             |
 |-------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat&logo=postgresql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) | ![REST API](https://img.shields.io/badge/REST%20API-1E90FF?style=flat) |
