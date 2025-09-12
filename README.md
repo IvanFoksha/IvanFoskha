@@ -15,6 +15,16 @@ Python-разработчик (Python, Django, PostgreSQL). Реализовал
 
 ## Tech Stack
 
+## Tech Stack
+
+| Backend                                                                 | Database                                                               | Frontend                                                              | Tools & DevOps                                                              | API & Testing                                                             |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat&logo=postgresql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) | ![REST API](https://img.shields.io/badge/REST%20API-1E90FF?style=flat) |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | ![Redis](https://img.shields.io/badge/redis-CC0000?style=flat&logo=redis&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat&logo=docker&logoColor=white) | ![Unit Tests](https://img.shields.io/badge/Unit%20Tests-6DB33F?style=flat) |
+| ![Django](https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat) | ![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white) | ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black) |                                                                           |
+| ![Flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white) |                                                                        |                                                                       | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |                                                                           |
+| ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-326CE5?style=flat) |                                                                        |                                                                       |                                                                              |                                                                           |
+
 ### Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
