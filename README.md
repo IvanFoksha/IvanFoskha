@@ -25,33 +25,6 @@ Python-разработчик (Python, Django, PostgreSQL). Реализовал
 | ![Flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white) |                                                                        |                                                                       | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |                                                                           |
 | ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-326CE5?style=flat) |                                                                        |                                                                       |                                                                              |                                                                           |
 
-### Backend
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-326CE5?style=flat)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-CC0000?style=flat&logo=redis&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-### API & Testing
-![REST API](https://img.shields.io/badge/REST%20API-1E90FF?style=flat)
-![Unit Tests](https://img.shields.io/badge/Unit%20Tests-6DB33F?style=flat)
-
 ---
 
 ## Опыт работы
