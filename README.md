@@ -55,7 +55,7 @@ Python (asyncio, aiogram), pytest, web3.py; SQLAlchemy; Django (REST API Framewo
 **Проекты:**
 1. [Игры разума](https://github.com/IvanFoksha/python-project-49) - набор из 5 консольных игр, построенных по принципу популярных мобильных приложений для тренировки мозга.
 2. [Вычислитель отличий](https://github.com/IvanFoksha/python-project-50) - программа, которая определяет разницу между двумя структурами данных. Поддерживает 2 формата.
-3. [Анализатор страниц](https://github.com/IvanFoksha/python-project-83) - анализирует старницы на SEO пригодность .Самый быстрый проект (написал за 1 неделю).
+3. [Анализатор страниц](https://github.com/IvanFoksha/python-project-83) - анализирует страницы на SEO пригодность .Самый быстрый проект (написал за 1 неделю).
 4. [Менеджер задач](https://github.com/IvanFoksha/python-project-52) - система управления задачами.
 5. Участие в [коммерческом проекте](https://github.com/IvanFoksha/tg-marketing-service) (по настоящее время) - телеграмм бот по аналитике данных каналов, пользователей, взаимодействий конкурентов, на подобии [TgStat](https://tgstat.ru/) / [Telemetr](https://telemetr.ru/)
 
